@@ -1,0 +1,6 @@
+population,p_value,significant
+b_cell,0.05570230973826624,False
+cd8_t_cell,0.6390858847346418,False
+cd4_t_cell,0.01334421881393762,True
+nk_cell,0.12105079820428571,False
+monocyte,0.16315013268752876,False
